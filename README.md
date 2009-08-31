@@ -1,9 +1,8 @@
-Wordnatra is a web interface to the Princeton University's [WordNet][:wordnet] Database.
+# Wordnatra
 
-This project uses a SQL conversion of the WordNet database, created using ["WordNet SQL Builder"][:wnsqlbuilder], by Bernard Bou.
+Wordnatra is a web interface to a SQL version of Princeton University's [WordNet][:wordnet] Database.  To download the database visit the [WordNet SQL Builder][:wnsqlbuilder] project, by Bernard Bou.
 
 Wordnatra was created using the [Sinatra][:sinatra] ruby web framework, the [DataMapper ORM][:datamapper], and [HAML][:haml] template engine.
-
 
 Wordnatra was written by Brian Knox and is released under the MIT License (see enclosed license file).
 
